@@ -1,0 +1,1 @@
+-force-include-file "Exo45.c";"f:\GL\Exo45\Exo45.c" -force-include-file "TP_lib.c";"f:\GL\Visual studio(github)\GL\GL\src\TP_lib.c" -force-include-file "TP_lib.h";"f:\GL\Visual studio(github)\GL\GL\include\TP_lib.h" 
