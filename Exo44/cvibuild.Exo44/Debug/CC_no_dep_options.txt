@@ -1,0 +1,1 @@
+-force-include-file "main.c";"f:\GL\Visual studio(github)\GL\GL\src\main.c" -force-include-file "my_header.h";"f:\GL\Visual studio(github)\GL\GL\include\my_header.h" -force-include-file "TP_lib.c";"f:\GL\Visual studio(github)\GL\GL\src\TP_lib.c" -force-include-file "TP_lib.h";"f:\GL\Visual studio(github)\GL\GL\include\TP_lib.h" 
