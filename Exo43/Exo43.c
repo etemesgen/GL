@@ -25,7 +25,7 @@ int main(void)
 	{
 		som = som + a;
 		e = e+1;
-		a = ((rand())%+1);
+		a = ((rand()%10)+1);
 	}
 		 
 	while (b < 20)
