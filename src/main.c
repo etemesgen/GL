@@ -1,9 +1,17 @@
-//  Copyright (c) 2018 Antoine Tran Tan
-//
-
 #include "my_header.h"
 
-int main(void)
+void main (void)
 {
-    return 0;
+	unsigned char bin[10];
+	double seuil = 4;
+	int resultat;
+	
+	bin [10] = {0,1,2,3,4,5,6,7,8,9};
+	
+	for(bin[0] < seuil; bin[0] > seuil; bin == bin + 1)
+	{
+		resultat = resultat + 1;
+		
+    }
 }
+
