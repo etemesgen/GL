@@ -3,13 +3,14 @@
 #define SEUIL 18
 #define SEUILB -100
 #define SEUILH 200
+#define N 5
 
 void main(void)
 {
 
    unsigned char e,d,o;
    unsigned char n2;
-   unsigned char N=5;
+   unsigned char constante_symbolique;
 
    unsigned char bin [10]={ 2,4,8,16,32,64,128,240,56,19};
    int sat[10]={ rand() - RAND_MAX/2, rand() - RAND_MAX/2, rand() - RAND_MAX/2,rand() - RAND_MAX/2,rand() - RAND_MAX/2,rand() - RAND_MAX/2,rand() - RAND_MAX/2,rand() - RAND_MAX/2,rand() - RAND_MAX/2,rand() - RAND_MAX/2};
